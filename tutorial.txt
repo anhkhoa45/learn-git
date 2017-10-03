@@ -1,2 +1,3 @@
 Hello world
 Add line from tutorial2
+pull: Lấy nội dung của remote repository
