@@ -1,2 +1,3 @@
 Hello world
 Add line from tutorial2
+commit: Lưu lại trạng thái của index
