@@ -3,3 +3,4 @@ Add line from tutorial2
 commit: Lưu lại trạng thái của index
 pull: Lấy nội dung của remote repository
 text from branch master
+text from branch issue1
