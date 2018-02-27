@@ -5,4 +5,4 @@ pull: Lấy nội dung của remote repository
 text from branch master
 text from branch issue1
 
-day la nhanh add_file
+day la nhanh change_file
